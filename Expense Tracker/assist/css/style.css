@@ -1,0 +1,149 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.sec1 {
+    background-color: rgb(225, 243, 249);
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Mukta', sans-serif;
+    font-size: 50px;
+    color: rgb(2, 49, 102);
+}
+.bal{
+      display: flex;
+      margin-left: 500px;
+      margin-top: 50px;
+      font-size: 25px;
+      color: rgb(2, 49, 102);
+}
+.sign {
+    margin-left: 500px;
+    font-family: 'Mukta', sans-serif;
+    font-size: 50px;
+    color: rgb(2, 49, 102);
+
+}
+.inc {
+    display: flex;
+    margin-left: 400px;
+    margin-top: 50px;
+    background-color: #FEFEFA;
+    border-color: white;
+    border-radius: 12px;
+    height: 120px;
+    width: 400px;
+    padding-top: 10px;
+    padding-left: 30px;
+    font-size: 25px;
+    font-family: 'Mukta', sans-serif;
+    color: rgb(2, 49, 102);
+}
+.plus {
+    
+    margin-left: -140px;
+    margin-top: 50px;
+    background-color: #FEFEFA;
+    border-color: white;
+    border-radius: 12px;
+    height: 0px;
+    padding-left: 20px;
+    font-size: 20px;
+    font-family: 'Mukta', sans-serif;
+    color: rgb(2, 49, 102);
+}
+.exp {
+    display: flex;
+    margin-left: 650px;
+    margin-top: -132px; 
+    border-color: white;
+    border-radius: 12px;
+    height: 120px;
+    width: 400px;
+    padding-top: 10px;
+    padding-left: 30px;
+    font-size: 25px;
+    font-family: 'Mukta', sans-serif;
+    color: rgb(2, 49, 102);
+}
+.minus {
+    margin-left: 690px;
+    margin-top: -70px;
+    background-color: #FEFEFA;
+    border-color: white;
+    border-radius: 12px;
+    height: 0px;
+    font-size: 20px;
+    font-family: 'Mukta', sans-serif;
+    color: rgb(2, 49, 102);
+}
+.history {
+    display: flex;
+    margin-left: 500px;
+    margin-top: 100px;
+    font-size: 25px;
+     color:  rgb(2, 49, 102);
+
+}
+
+.add {
+    margin-left: 450px;
+    font-family: 'Mukta', sans-serif;
+    font-size: 25px;
+    color: rgb(2, 49, 102);
+}
+.font {
+    margin-left: 200px;
+    font-family: 'Mukta', sans-serif;
+    font-size: 20px;
+    color: rgb(2, 49, 102);
+
+}
+.transaction {
+    margin-left: 200px;
+    font-family: 'Mukta', sans-serif;
+    font-size: 15px;
+    width: 300px;
+    height: 30px;
+    border-radius: 5px;
+    border-color: rgb(225, 243, 249);
+    color: rgb(2, 49, 102);
+}
+.amount {
+    margin-left: 200px;
+    font-family: 'Mukta', sans-serif;
+    font-size: 20px;
+    color: rgb(2, 49, 102);
+
+}
+.number {
+    margin-left: 200px;
+    font-family: 'Mukta', sans-serif;
+    font-size: 15px;
+    width: 300px;
+    height: 30px;
+    border-radius: 5px;
+    border-color:rgb(225, 243, 249); ;
+    color: rgb(2, 49, 102);
+}
+.bnt {
+    margin-left: 200px;
+    font-family: 'Mukta', sans-serif;
+    font-size: 15px;
+    width: 200px;
+    height: 30px;
+    border-radius: 5px;
+
+   
+}
+   
+   
+
+
+
+
+
+
+
